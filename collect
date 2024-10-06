@@ -1,13 +1,10 @@
 {
     "vmess": [],
     "vless": [
-        "vless:\/\/c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.97.3:443?path=%2FOmCbOl6rNjKjMvpZ%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=miDsUMmeR-bPb.PaGeS.dEv&amp;fp=randomized&amp;type=ws&amp;sni=miDSummeR-bpb.PaGes.Dev#%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadGraphic%E3%80%8F<\/div>",
         "vless:\/\/7ee22e0f-261d-4c49-8073-70f88feae56c@104.18.14.56:443?path=%2FaKMctFWH8BDv2Szv%2FMTkzLjEyMy42OS43Nw%3D%3D%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=h2,http\/1.1&amp;host=v2ray-emadx.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=PaGES.DEv#%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadGraphic%E3%80%8F<\/div>",
         "vless:\/\/91b41e65-a104-4fde-906b-4ed6bbb18424@172.67.37.213:8443?path=Pages.Dev%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;alpn=http\/1.1&amp;host=ev2raydev.pages.dev&amp;fp=chrome&amp;type=ws&amp;sni=paGES.dEV#%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadGraphic%E3%80%8F"
     ],
     "trojan": [
-        "trojan:\/\/E-Graphic@172.67.75.194:443?path=%2FtreUXrgF6fT8RCZPjJ%2FMTkzLjEyMy42OS43Nw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2,http\/1.1&amp;host=v2ray-emadx.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=V2RAy-eMAdx.PAges.dEv#%F0%9F%92%A6+Trojan+-+IPv4+2+%3A+443<\/div>",
-        "trojan:\/\/E-Graphic@104.17.217.170:443?path=%2FtreUXrgF6fT8RCZPjJ%2FMTkzLjEyMy42OS43Nw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2,http\/1.1&amp;host=v2ray-emadx.pages.dev&amp;fp=randomized&amp;type=ws&amp;sni=PAges.dEv#%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadGraphic%E3%80%8F<\/div>",
         "trojan:\/\/E-Graphic@104.18.63.108:443?path=%2FtreUXrgF6fT8RCZPjJ%2FMTkzLjEyMy42OS43Nw%3D%3D%3Fed%3D2560&amp;security=tls&amp;alpn=h2,http\/1.1&amp;host=v2ray-emadx.pages.dev&amp;fp=firefox&amp;type=ws&amp;sni=PAges.dEv#%F0%9D%97%A0%F0%9D%97%B2%F0%9D%97%B4%F0%9D%97%AE%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81+%3A%3A+%F0%9D%90%89%F0%9D%90%A8%F0%9D%90%A2%F0%9D%90%A7%E2%98%9B%EF%B8%8E%E3%80%8EEmadGraphic%E3%80%8F<\/div>"
     ],
     "ss": [],
